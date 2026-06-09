@@ -1,0 +1,611 @@
+{
+  "_meta": {
+    "page_title": "Golden Spark Jewellery",
+    "page_description": "Discover our exclusive collection of handcrafted jewellery — where artisanship meets the brilliance of precious gold and gemstones.",
+    "note": "All editable site content lives here. Each key maps to a data-id attribute in the HTML. Change values here and the page updates automatically — no HTML edits needed."
+  },
+
+  "──────────── HEADER ────────────": "─",
+
+  "logo_text": {
+    "type": "text",
+    "html": "Golden<span>Spark</span>"
+  },
+  "logo_sub": {
+    "type": "text",
+    "value": "Fine Jewellery"
+  },
+
+  "nav_about": {
+    "type": "link",
+    "href": "#about",
+    "text": "About"
+  },
+  "nav_collections": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Collections"
+  },
+  "nav_offer": {
+    "type": "link",
+    "href": "#offer",
+    "text": "Offers"
+  },
+  "nav_testimonials": {
+    "type": "link",
+    "href": "#testimonials",
+    "text": "Reviews"
+  },
+  "nav_contact": {
+    "type": "link",
+    "href": "#contact",
+    "text": "Contact"
+  },
+  "nav_cta": {
+    "type": "link",
+    "href": "#contact",
+    "text": "Book Appointment"
+  },
+
+  "mnav_about": {
+    "type": "link",
+    "href": "#about",
+    "text": "About"
+  },
+  "mnav_collections": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Collections"
+  },
+  "mnav_offer": {
+    "type": "link",
+    "href": "#offer",
+    "text": "Offers"
+  },
+  "mnav_testimonials": {
+    "type": "link",
+    "href": "#testimonials",
+    "text": "Reviews"
+  },
+  "mnav_contact": {
+    "type": "link",
+    "href": "#contact",
+    "text": "Contact"
+  },
+
+  "──────────── HERO ────────────": "─",
+
+  "hero_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-hero/1600/900",
+    "alt": "Golden Spark Jewellery — luxury jewellery hero banner"
+  },
+  "hero_badge": {
+    "type": "text",
+    "value": "Luxury since 2000"
+  },
+  "hero_title": {
+    "type": "text",
+    "html": "Crafted for<br><em>Timeless</em> Beauty"
+  },
+  "hero_subtitle": {
+    "type": "text",
+    "value": "Discover our exclusive collection of handcrafted jewellery — where artisanship meets the brilliance of precious gold and gemstones."
+  },
+  "hero_cta_primary": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Shop Now"
+  },
+  "hero_cta_secondary": {
+    "type": "link",
+    "href": "#about",
+    "text": "Our Story"
+  },
+
+  "──────────── ABOUT ────────────": "─",
+
+  "about_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-about/700/900",
+    "alt": "Master jeweller at work — Golden Spark craftsmanship"
+  },
+  "about_stat_num": {
+    "type": "text",
+    "value": "25+"
+  },
+  "about_stat_label": {
+    "type": "text",
+    "value": "Years of Craftsmanship"
+  },
+  "about_label": {
+    "type": "text",
+    "value": "Our Story"
+  },
+  "about_title": {
+    "type": "text",
+    "html": "Jewellery Born from<br>Passion &amp; Precision"
+  },
+  "about_text": {
+    "type": "text",
+    "value": "Founded in 1998 in the heart of Kerala, Golden Spark Jewellery has been a trusted name in fine jewellery for over two decades. We blend traditional craftsmanship with contemporary design, creating pieces that are as unique as the people who wear them."
+  },
+  "about_text_2": {
+    "type": "text",
+    "value": "Every ring, necklace, bracelet, and earring that leaves our workshop carries the mark of our master artisans — each trained in age-old techniques, each devoted to perfection in every curve and facet."
+  },
+  "pillar_1_title": {
+    "type": "text",
+    "value": "Hallmarked Gold"
+  },
+  "pillar_1_desc": {
+    "type": "text",
+    "value": "BIS certified purity"
+  },
+  "pillar_2_title": {
+    "type": "text",
+    "value": "Handcrafted"
+  },
+  "pillar_2_desc": {
+    "type": "text",
+    "value": "Artisan-made pieces"
+  },
+  "pillar_3_title": {
+    "type": "text",
+    "value": "Ethically Sourced"
+  },
+  "pillar_3_desc": {
+    "type": "text",
+    "value": "Conflict-free gems"
+  },
+  "about_cta": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Explore Collections"
+  },
+
+  "──────────── COLLECTIONS ────────────": "─",
+
+  "collections_label": {
+    "type": "text",
+    "value": "Featured Pieces"
+  },
+  "collections_title": {
+    "type": "text",
+    "value": "Our Collections"
+  },
+  "collections_view_all": {
+    "type": "link",
+    "href": "#",
+    "text": "View All"
+  },
+
+  "collection_1_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-ring/500/400",
+    "alt": "Radiant Rose Ring — 18K rose gold with ruby accents"
+  },
+  "collection_1_badge": {
+    "type": "text",
+    "value": "New Arrival"
+  },
+  "collection_1_category": {
+    "type": "text",
+    "value": "Rings"
+  },
+  "collection_1_title": {
+    "type": "text",
+    "value": "Radiant Rose Ring"
+  },
+  "collection_1_desc": {
+    "type": "text",
+    "value": "18K rose gold with natural ruby accents and micro-pave diamonds."
+  },
+  "collection_1_price": {
+    "type": "text",
+    "value": "₹48,500"
+  },
+  "collection_1_btn": {
+    "type": "text",
+    "value": "Add to Bag"
+  },
+
+  "collection_2_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-necklace/500/400",
+    "alt": "Cascade Gold Necklace — 22K Kerala temple design"
+  },
+  "collection_2_badge": {
+    "type": "text",
+    "value": "Bestseller"
+  },
+  "collection_2_category": {
+    "type": "text",
+    "value": "Necklaces"
+  },
+  "collection_2_title": {
+    "type": "text",
+    "value": "Cascade Gold Necklace"
+  },
+  "collection_2_desc": {
+    "type": "text",
+    "value": "22K gold with a traditional Kerala temple design, handcrafted by master artisans."
+  },
+  "collection_2_price": {
+    "type": "text",
+    "value": "₹1,24,000"
+  },
+  "collection_2_btn": {
+    "type": "text",
+    "value": "Add to Bag"
+  },
+
+  "collection_3_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-earring/500/400",
+    "alt": "Lotus Drop Earrings — 18K gold with emerald centres"
+  },
+  "collection_3_badge": {
+    "type": "text",
+    "value": "Sale"
+  },
+  "collection_3_category": {
+    "type": "text",
+    "value": "Earrings"
+  },
+  "collection_3_title": {
+    "type": "text",
+    "value": "Lotus Drop Earrings"
+  },
+  "collection_3_desc": {
+    "type": "text",
+    "value": "Delicate lotus-motif drops in 18K yellow gold with emerald stone centres."
+  },
+  "collection_3_price": {
+    "type": "text",
+    "value": "₹32,800"
+  },
+  "collection_3_btn": {
+    "type": "text",
+    "value": "Add to Bag"
+  },
+
+  "collection_4_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-bangle/500/400",
+    "alt": "Heritage Bangle Set — 22K antique finish filigree"
+  },
+  "collection_4_badge": {
+    "type": "text",
+    "value": "Limited"
+  },
+  "collection_4_category": {
+    "type": "text",
+    "value": "Bangles"
+  },
+  "collection_4_title": {
+    "type": "text",
+    "value": "Heritage Bangle Set"
+  },
+  "collection_4_desc": {
+    "type": "text",
+    "value": "A set of four 22K gold bangles with antique finish and intricate filigree work."
+  },
+  "collection_4_price": {
+    "type": "text",
+    "value": "₹2,18,000"
+  },
+  "collection_4_btn": {
+    "type": "text",
+    "value": "Add to Bag"
+  },
+
+  "──────────── OFFER BANNER ────────────": "─",
+
+  "offer_image": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/jewel-offer/1600/600",
+    "alt": "Monsoon Sale — Special offer banner"
+  },
+  "offer_tag": {
+    "type": "text",
+    "value": "Limited Time Offer"
+  },
+  "offer_title": {
+    "type": "text",
+    "html": "Monsoon Sale —<br><em>Shine Brighter</em> This Season"
+  },
+  "offer_text": {
+    "type": "text",
+    "value": "Celebrate the season with our biggest sale of the year. Get exclusive discounts on selected gold and diamond jewellery. Offer valid on in-store and online purchases."
+  },
+  "offer_cta": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Claim Offer"
+  },
+  "timer_days_label": {
+    "type": "text",
+    "value": "Days"
+  },
+  "timer_hours_label": {
+    "type": "text",
+    "value": "Hours"
+  },
+  "timer_mins_label": {
+    "type": "text",
+    "value": "Mins"
+  },
+  "timer_secs_label": {
+    "type": "text",
+    "value": "Secs"
+  },
+  "offer_discount_pct": {
+    "type": "text",
+    "value": "30%"
+  },
+  "offer_discount_label": {
+    "type": "text",
+    "value": "OFF"
+  },
+
+  "──────────── TESTIMONIALS ────────────": "─",
+
+  "testimonials_label": {
+    "type": "text",
+    "value": "Client Love"
+  },
+  "testimonials_title": {
+    "type": "text",
+    "value": "What Our Customers Say"
+  },
+
+  "testimonial_1": {
+    "type": "text",
+    "value": "The wedding set we bought from Golden Spark was absolutely breathtaking. The craftsmanship is unlike anything we had seen elsewhere. Every guest complimented us on the jewellery!"
+  },
+  "testimonial_1_stars": {
+    "type": "text",
+    "value": "★★★★★"
+  },
+  "testimonial_1_avatar": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/avatar1/100/100",
+    "alt": "Priya Menon"
+  },
+  "testimonial_1_name": {
+    "type": "text",
+    "value": "Priya Menon"
+  },
+  "testimonial_1_location": {
+    "type": "text",
+    "value": "Kochi, Kerala"
+  },
+
+  "testimonial_2": {
+    "type": "text",
+    "value": "I purchased an anniversary gift — the Cascade Gold Necklace — and my wife was overjoyed. The quality is premium, and the service was warm and personal. Highly recommended!"
+  },
+  "testimonial_2_stars": {
+    "type": "text",
+    "value": "★★★★★"
+  },
+  "testimonial_2_avatar": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/avatar2/100/100",
+    "alt": "Anand Krishnan"
+  },
+  "testimonial_2_name": {
+    "type": "text",
+    "value": "Anand Krishnan"
+  },
+  "testimonial_2_location": {
+    "type": "text",
+    "value": "Thiruvananthapuram, Kerala"
+  },
+
+  "testimonial_3": {
+    "type": "text",
+    "value": "Stunning pieces, ethical sourcing, and a genuinely lovely shopping experience. I bought the Heritage Bangle Set for my mother and she cried happy tears. Golden Spark is our family's jeweller for life."
+  },
+  "testimonial_3_stars": {
+    "type": "text",
+    "value": "★★★★★"
+  },
+  "testimonial_3_avatar": {
+    "type": "image",
+    "src": "https://picsum.photos/seed/avatar3/100/100",
+    "alt": "Sreelakshmi Nair"
+  },
+  "testimonial_3_name": {
+    "type": "text",
+    "value": "Sreelakshmi Nair"
+  },
+  "testimonial_3_location": {
+    "type": "text",
+    "value": "Thrissur, Kerala"
+  },
+
+  "──────────── CONTACT ────────────": "─",
+
+  "contact_label": {
+    "type": "text",
+    "value": "Get In Touch"
+  },
+  "contact_title": {
+    "type": "text",
+    "html": "Visit Us or<br>Drop a Message"
+  },
+  "contact_intro": {
+    "type": "text",
+    "value": "We'd love to meet you in our showroom or answer any questions you may have. Our jewellery experts are available to help you find the perfect piece."
+  },
+  "address": {
+    "type": "text",
+    "html": "42, MG Road, Ernakulam,<br>Kochi — 682 011, Kerala"
+  },
+  "phone_number": {
+    "type": "link",
+    "href": "tel:+914842345678",
+    "text": "+91 484 234 5678"
+  },
+  "email_address": {
+    "type": "link",
+    "href": "mailto:hello@goldenspark.in",
+    "text": "hello@goldenspark.in"
+  },
+  "store_hours": {
+    "type": "text",
+    "html": "Mon – Sat: 10:00 AM – 8:00 PM<br>Sunday: 11:00 AM – 6:00 PM"
+  },
+  "contact_submit_btn": {
+    "type": "text",
+    "value": "Send Message"
+  },
+
+  "──────────── FOOTER ────────────": "─",
+
+  "footer_logo": {
+    "type": "text",
+    "html": "Golden<span>Spark</span>"
+  },
+  "footer_logo_sub": {
+    "type": "text",
+    "value": "Fine Jewellery"
+  },
+  "footer_tagline": {
+    "type": "text",
+    "value": "Crafting memories in gold since 1998. Every piece tells a story of love, tradition, and brilliance."
+  },
+
+  "social_instagram": {
+    "type": "link",
+    "href": "https://instagram.com/goldenspark",
+    "text": "⊕"
+  },
+  "social_facebook": {
+    "type": "link",
+    "href": "https://facebook.com/goldenspark",
+    "text": "ƒ"
+  },
+  "social_youtube": {
+    "type": "link",
+    "href": "https://youtube.com/goldenspark",
+    "text": "▶"
+  },
+  "social_pinterest": {
+    "type": "link",
+    "href": "https://pinterest.com/goldenspark",
+    "text": "✦"
+  },
+
+  "footer_col1_title": {
+    "type": "text",
+    "value": "Quick Links"
+  },
+  "footer_link_about": {
+    "type": "link",
+    "href": "#about",
+    "text": "About Us"
+  },
+  "footer_link_collections": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Collections"
+  },
+  "footer_link_offer": {
+    "type": "link",
+    "href": "#offer",
+    "text": "Current Offers"
+  },
+  "footer_link_reviews": {
+    "type": "link",
+    "href": "#testimonials",
+    "text": "Reviews"
+  },
+  "footer_link_contact": {
+    "type": "link",
+    "href": "#contact",
+    "text": "Contact"
+  },
+
+  "footer_col2_title": {
+    "type": "text",
+    "value": "Collections"
+  },
+  "footer_cat_rings": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Rings"
+  },
+  "footer_cat_necklaces": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Necklaces"
+  },
+  "footer_cat_earrings": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Earrings"
+  },
+  "footer_cat_bangles": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Bangles"
+  },
+  "footer_cat_bridal": {
+    "type": "link",
+    "href": "#collections",
+    "text": "Bridal Sets"
+  },
+
+  "footer_col3_title": {
+    "type": "text",
+    "value": "Support"
+  },
+  "footer_policy_returns": {
+    "type": "link",
+    "href": "#",
+    "text": "Returns & Exchange"
+  },
+  "footer_policy_shipping": {
+    "type": "link",
+    "href": "#",
+    "text": "Shipping Info"
+  },
+  "footer_policy_care": {
+    "type": "link",
+    "href": "#",
+    "text": "Jewellery Care"
+  },
+  "footer_policy_faq": {
+    "type": "link",
+    "href": "#",
+    "text": "FAQ"
+  },
+  "footer_policy_privacy": {
+    "type": "link",
+    "href": "#",
+    "text": "Privacy Policy"
+  },
+
+  "footer_text": {
+    "type": "text",
+    "value": "© 2024 Golden Spark Jewellery. All rights reserved. | Kochi, Kerala, India"
+  },
+  "footer_terms": {
+    "type": "link",
+    "href": "#",
+    "text": "Terms of Service"
+  },
+  "footer_privacy": {
+    "type": "link",
+    "href": "#",
+    "text": "Privacy Policy"
+  },
+  "footer_sitemap": {
+    "type": "link",
+    "href": "#",
+    "text": "Sitemap"
+  }
+}
