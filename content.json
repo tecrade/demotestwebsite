@@ -4,9 +4,7 @@
     "page_description": "Discover our exclusive collection of handcrafted jewellery — where artisanship meets the brilliance of precious gold and gemstones.",
     "note": "All editable site content lives here. Each key maps to a data-id attribute in the HTML. Change values here and the page updates automatically — no HTML edits needed."
   },
-
   "──────────── HEADER ────────────": "─",
-
   "logo_text": {
     "type": "text",
     "html": "Golden<span>Spark</span>"
@@ -15,7 +13,6 @@
     "type": "text",
     "value": "Fine Jewellery"
   },
-
   "nav_about": {
     "type": "link",
     "href": "#about",
@@ -46,7 +43,6 @@
     "href": "#contact",
     "text": "Book Appointment"
   },
-
   "mnav_about": {
     "type": "link",
     "href": "#about",
@@ -72,9 +68,7 @@
     "href": "#contact",
     "text": "Contact"
   },
-
   "──────────── HERO ────────────": "─",
-
   "hero_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-hero/1600/900",
@@ -100,11 +94,9 @@
   "hero_cta_secondary": {
     "type": "link",
     "href": "#about",
-    "text": "Our Story"
+    "text": "Story"
   },
-
   "──────────── ABOUT ────────────": "─",
-
   "about_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-about/700/900",
@@ -163,9 +155,7 @@
     "href": "#collections",
     "text": "Explore Collections"
   },
-
   "──────────── COLLECTIONS ────────────": "─",
-
   "collections_label": {
     "type": "text",
     "value": "Featured Pieces"
@@ -179,7 +169,6 @@
     "href": "#",
     "text": "View All"
   },
-
   "collection_1_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-ring/500/400",
@@ -209,7 +198,6 @@
     "type": "text",
     "value": "Add to Bag"
   },
-
   "collection_2_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-necklace/500/400",
@@ -239,7 +227,6 @@
     "type": "text",
     "value": "Add to Bag"
   },
-
   "collection_3_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-earring/500/400",
@@ -269,7 +256,6 @@
     "type": "text",
     "value": "Add to Bag"
   },
-
   "collection_4_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-bangle/500/400",
@@ -299,9 +285,7 @@
     "type": "text",
     "value": "Add to Bag"
   },
-
   "──────────── OFFER BANNER ────────────": "─",
-
   "offer_image": {
     "type": "image",
     "src": "https://picsum.photos/seed/jewel-offer/1600/600",
@@ -348,9 +332,7 @@
     "type": "text",
     "value": "OFF"
   },
-
   "──────────── TESTIMONIALS ────────────": "─",
-
   "testimonials_label": {
     "type": "text",
     "value": "Client Love"
@@ -359,7 +341,6 @@
     "type": "text",
     "value": "What Our Customers Say"
   },
-
   "testimonial_1": {
     "type": "text",
     "value": "The wedding set we bought from Golden Spark was absolutely breathtaking. The craftsmanship is unlike anything we had seen elsewhere. Every guest complimented us on the jewellery!"
@@ -381,7 +362,6 @@
     "type": "text",
     "value": "Kochi, Kerala"
   },
-
   "testimonial_2": {
     "type": "text",
     "value": "I purchased an anniversary gift — the Cascade Gold Necklace — and my wife was overjoyed. The quality is premium, and the service was warm and personal. Highly recommended!"
@@ -403,7 +383,6 @@
     "type": "text",
     "value": "Thiruvananthapuram, Kerala"
   },
-
   "testimonial_3": {
     "type": "text",
     "value": "Stunning pieces, ethical sourcing, and a genuinely lovely shopping experience. I bought the Heritage Bangle Set for my mother and she cried happy tears. Golden Spark is our family's jeweller for life."
@@ -425,9 +404,7 @@
     "type": "text",
     "value": "Thrissur, Kerala"
   },
-
   "──────────── CONTACT ────────────": "─",
-
   "contact_label": {
     "type": "text",
     "value": "Get In Touch"
@@ -462,9 +439,7 @@
     "type": "text",
     "value": "Send Message"
   },
-
   "──────────── FOOTER ────────────": "─",
-
   "footer_logo": {
     "type": "text",
     "html": "Golden<span>Spark</span>"
@@ -477,7 +452,6 @@
     "type": "text",
     "value": "Crafting memories in gold since 1998. Every piece tells a story of love, tradition, and brilliance."
   },
-
   "social_instagram": {
     "type": "link",
     "href": "https://instagram.com/goldenspark",
@@ -498,7 +472,6 @@
     "href": "https://pinterest.com/goldenspark",
     "text": "✦"
   },
-
   "footer_col1_title": {
     "type": "text",
     "value": "Quick Links"
@@ -528,7 +501,6 @@
     "href": "#contact",
     "text": "Contact"
   },
-
   "footer_col2_title": {
     "type": "text",
     "value": "Collections"
@@ -558,7 +530,6 @@
     "href": "#collections",
     "text": "Bridal Sets"
   },
-
   "footer_col3_title": {
     "type": "text",
     "value": "Support"
@@ -588,7 +559,6 @@
     "href": "#",
     "text": "Privacy Policy"
   },
-
   "footer_text": {
     "type": "text",
     "value": "© 2024 Golden Spark Jewellery. All rights reserved. | Kochi, Kerala, India"
